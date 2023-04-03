@@ -73,3 +73,9 @@ print(user.runtimeType);
 print(user.toJson());
 // {name: mike, age: 20}
 ```
+
+## Roadmap
+
+- Pretty print dart object.
+- Wrapping [Convert Object, List to JSON string](https://www.bezkoder.com/dart-flutter-convert-object-to-json-string/) and [Convert/Parse JSON string, array into Object, List](https://www.bezkoder.com/dart-flutter-parse-json-string-array-to-object-list/).
+- Data transport (my unpublished dart library for data codec to reduce netwrok bandwidth).
